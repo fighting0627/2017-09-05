@@ -1,0 +1,164 @@
+@charset:"utf-8";
+body{
+	padding: 0;
+	margin: 0;
+}
+#all{
+	width: 100%;
+	height: auto;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+#nav{
+	width: 100%;
+	height: 600px;
+	background-image: url('img/bg.jpg');
+	background-size: cover;
+}
+#title{
+	width: 100%;
+	height: 27px;
+	background-color: rgba(255, 255, 255, 0.5);
+	margin-bottom: 158px;
+}
+#block_up{
+	width: 100%;
+	height: 386px;
+	padding-top: 14px;
+}
+#logo{
+	width: 102px;
+	height: 27px;
+	position:absolute;
+	background-image: url('img/logo.svg');
+	background-size: cover;
+}
+#button{
+	width: 300px;
+	height: 20px;
+	background-color: white;
+	float: right;
+	margin-left: auto;
+	margin-right: auto;
+}
+#banner{
+	width: 357px;
+	height: 150px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul{
+	padding: 0;
+	margin: 0;
+}
+li{
+	list-style: none;
+	float: left;
+	width: 70px;
+	height: 27px;
+}
+#block_down{
+	width: 100%;
+	height: 105px;
+	background-color: rgba(255, 255, 255, 0.3);
+	padding-top:100px;
+}
+#search{
+	width: 740px;
+	height: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+}
+#content{
+	width: 100%;
+	height: 865px;
+	background-color: pink;
+}
+
+#current{
+	width: 100%;
+	height: 90px;
+	background-color: #DA8324;
+	padding-top: 60px;
+}
+#classification{
+	width: 160px;
+	height: 57px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+#pic{
+	width: 698px;
+	height: 714px;
+	background-color: yellow;
+	margin-left: auto;
+	margin-right: auto;
+}
+#pic1{
+	width: 698px;
+	height: 190px;
+    background-image: url('img/meterial/sanya.jpg');
+    background-size: cover;
+    margin-bottom: 25px;
+    padding-top: 154px;
+}
+#pic2{
+	width: 336px;
+	height: 190px;
+	background-image: url('img/meterial/Niagara-Waterfall.jpg');
+	background-size: cover;
+	margin-right:25px;
+	float: left;
+	 padding-top: 154px;
+}
+#pic3{
+	width: 336px;
+	height: 190px;
+	background-image: url('img/meterial/Aegean-Sea.jpg');
+	background-size: cover;
+	float: left;
+	padding-top: 154px;
+}
+#box{
+	width: 70px;
+	height: 50px;
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+}
+#button_D{
+	width: 100%;
+	height: 73px;
+	background-color:#8AB44A;
+	padding-top: 72px;
+}
+#shop{
+	width: 450px;
+	height: 20px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+}
+.word{
+	font-size: 16px;
+	color: black;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: gray;
+}
+#button li:nth-child(4){
+	border-right-style:none;
+}
+.word_1{
+	font-size: 16px;
+	color:black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+

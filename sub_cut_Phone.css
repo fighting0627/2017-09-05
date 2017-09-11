@@ -1,0 +1,165 @@
+@charset:"utf-8";
+body{
+	padding: 0;
+	margin: 0;
+}
+#all{
+	width: 100%;
+	height: auto;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+#menu{
+	width: 100%;
+	height: 45px;
+	background-color: white;
+}
+#nav{
+	width: 100%;
+	height: 400px;
+	background-image: url('img/bg.jpg');
+	background-size: cover;
+	padding-top:200px;
+}
+#title{
+	width: 100%;
+	height: 27px;
+	background-color: rgba(255, 255, 255, 0.5);
+	margin-bottom: 158px;
+	display: none;
+}
+#block_up{
+	width: 100%;
+	height: 170px;
+	padding-top: 14px;
+}
+#logo{
+	width: 102px;
+	height: 27px;
+	position:absolute;
+	background-image: url('img/logo-p.svg');
+	background-size: cover;
+}
+#button{
+	width: 300px;
+	height: 20px;
+	background-color: white;
+	float: right;
+	margin-left: auto;
+	margin-right: auto;
+}
+#banner{
+	width: 357px;
+	height: 150px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul{
+	padding: 0;
+	margin: 0;
+}
+li{
+	list-style: none;
+	float: left;
+	width: 70px;
+	height: 27px;
+}
+#block_down{
+	width: 100%;
+	height: 180px;
+}
+#search{
+	width: 740px;
+	height: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+}
+#content{
+	width: 100%;
+	height: 865px;
+	background-color: pink;
+}
+
+#current{
+	width: 100%;
+	height: 90px;
+	background-color: #DA8324;
+	padding-top: 60px;
+}
+#classification{
+	width: 160px;
+	height: 57px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+#pic{
+	width: 100%;
+	height: 570px;
+	background-color: yellow;
+	margin-left: auto;
+	margin-right: auto;
+}
+#pic1{
+	width: 100%;
+	height: 110px;
+    background-image: url('img/meterial/sanya.jpg');
+    background-size: cover;
+    padding-top: 80px;
+}
+#pic2{
+	width: 100%;
+	height: 110px;
+	background-image: url('img/meterial/Niagara-Waterfall.jpg');
+	background-size: cover;
+	padding-top: 80px;
+}
+#pic3{
+	width: 100%;
+	height: 110px;
+	background-image: url('img/meterial/Aegean-Sea.jpg');
+	background-size: cover;
+	padding-top: 80px;
+}
+#box{
+	width: 70px;
+	height: 50px;
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+}
+#button_D{
+	width: 100%;
+	height: 73px;
+	background-color:#8AB44A;
+	padding-top: 72px;
+}
+#shop{
+	width: 450px;
+	height: 20px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+}
+.word{
+	font-size: 16px;
+	color: black;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: gray;
+}
+#button li:nth-child(4){
+	border-right-style:none;
+}
+.word_1{
+	font-size: 16px;
+	color:black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
